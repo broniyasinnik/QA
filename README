@@ -1,0 +1,6 @@
+Question Answering
+
+Natural languge processing engine for crawling Wikipedia,
+in purpose of answering user questions formulated in their own
+natural language. We create an ontology of the gathered knowledge,
+and query it by transforming user questions to SparQL.
